@@ -17,5 +17,7 @@ The goal of this project is to create a robust regression model that accurately 
 The final XGBoost regression model achieved a Mean Squared Error of 2.3392 and an R-squared of 0.8841, indicating accurate fare predictions. The top features influencing fare amounts were found to be trip distance, tip amount, and pickup hour.
 
 **Conclusion:**
-This project provides an effective taxi fare estimation model that can be utilized by stakeholders in the NYC taxi industry. By understanding the key factors affecting fare amounts, taxi companies and drivers can optimize pricing strategies and enhance customer experience.![pexels-david-buchi-1054417](https://github.com/lacomaofficial/Taxi-Fare-Estimation-for-NYC-/assets/132283879/91e2eaa6-1add-4ec2-b562-489cd0596281)
+This project provides an effective taxi fare estimation model that can be utilized by stakeholders in the NYC taxi industry. By understanding the key factors affecting fare amounts, taxi companies and drivers can optimize pricing strategies and enhance customer experience.
+
+
 ![pexels-david-buchi-1054417](https://github.com/lacomaofficial/Taxi-Fare-Estimation-for-NYC-/assets/132283879/ffdf61f4-913a-4ae7-b660-fd3a84ed4d9b)
