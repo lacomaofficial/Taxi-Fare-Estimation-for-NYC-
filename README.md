@@ -1,4 +1,4 @@
-**Taxi Fare Estimation for NYC**
+# **Taxi Fare Estimation for NYC**
 
 This repository contains the code and data used to build a regression model for estimating taxi fares in New York City (NYC). The model is developed using the 2017 Yellow Taxi Trip Data from the NYC Taxi and Limousine Commission (TLC).
 
